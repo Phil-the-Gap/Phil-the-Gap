@@ -26,3 +26,9 @@ Python · pytest · GitHub Actions · pandas · REST APIs · Linux
 
 ---
 📫 You can find me on GitHub as **@Phil-the-Gap**
+## Contact
+
+If you have questions, ideas, or opportunities:
+- Open an issue or discussion on GitHub
+- Or reach out via my GitHub profile
+
