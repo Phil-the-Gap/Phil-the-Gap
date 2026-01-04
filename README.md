@@ -31,4 +31,5 @@ Python · pytest · GitHub Actions · pandas · REST APIs · Linux
 If you have questions, ideas, or opportunities:
 - Open an issue or discussion on GitHub
 - Or reach out via my GitHub profile
+- https://www.linkedin.com/in/phil-the-gap/
 
